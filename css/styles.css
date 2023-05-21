@@ -749,7 +749,7 @@ input[type=file] {
 }
 
 .main-navi-link:not(:last-child) {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .main-navi-link .img-cont {
